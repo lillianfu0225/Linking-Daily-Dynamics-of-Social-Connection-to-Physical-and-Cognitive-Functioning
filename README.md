@@ -4,12 +4,12 @@ A detailed description of all aspects of the methodology for this project is ava
 
 ## Hypotheses
 
-Specific hypotheses of each study are as follow:
+Specific hypotheses of each study are as follows:
 
-| Study | Registration | Status | Publication |
+| Study | Hypotheses | Status | Publication |
 |---|---|---|---|
-| Study 1: [title] | [OSF Registry link] | Registered / In progress / Complete | [DOI or "in preparation"] |
-| Study 2: [title] | [OSF Registry link] | Registered / In progress / Complete | [DOI or "in preparation"] |
+| Study 1: [title] | [hypotheses] | Registered / In progress / Complete | [DOI or "in preparation"] |
+| Study 2: [title] | [hypotheses] | Registered / In progress / Complete | [DOI or "in preparation"] |
 
 ## Published Manuscripts
 
