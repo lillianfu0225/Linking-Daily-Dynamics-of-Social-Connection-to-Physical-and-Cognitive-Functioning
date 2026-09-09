@@ -2,9 +2,9 @@
 
 A detailed description of all aspects of the methodology for this project is available on this GitHub repository, which serves as our project platform — a space where we place the files, code, and documentation that describe this large, multi-year project.
 
-## Registration
+## Hypotheses
 
-Descriptions of proposed studies, including specific hypotheses, are registered on the [Open Science Framework (OSF) Registries](https://osf.io/registries) prior to data collection. Registration records for each study are linked below as they become available, along with information about resulting published manuscripts.
+Specific hypotheses of each study are as follow:
 
 | Study | Registration | Status | Publication |
 |---|---|---|---|
