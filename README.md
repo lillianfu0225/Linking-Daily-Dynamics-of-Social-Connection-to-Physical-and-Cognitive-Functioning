@@ -1,4 +1,3 @@
-# Linking-Daily-Dynamics-of-Social-Connection-to-Physical-and-Cognitive-Functioning
 # Linking Daily Dynamics of Social Connection to Physical and Cognitive Functioning
 
 A detailed description of all aspects of the methodology for this project is available on this GitHub repository, which serves as our project platform — a space where we place the files, code, and documentation that describe this large, multi-year project.
